@@ -4,8 +4,8 @@ This Python script is a simple calculator program that takes two numbers as inpu
 
 Features:
 
-User-friendly interface for input and operation selection.
-Handles division by zero gracefully.
+User-friendly interface for input and operation selection. \n
+Handles division by zero gracefully. \n
 Provides results with clear messages.
 
 Usage:
